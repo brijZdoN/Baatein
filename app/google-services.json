@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "448475276336",
+    "firebase_url": "https://baatein-5acfd.firebaseio.com",
+    "project_id": "baatein-5acfd",
+    "storage_bucket": "baatein-5acfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448475276336:android:7c3e6e5b106bfee1",
+        "android_client_info": {
+          "package_name": "com.example.brijj.baatein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448475276336-k959kt2kseh37iv061s390v3clu84imo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brijj.baatein",
+            "certificate_hash": "f5380ba6fbc0809b1a5b913bf6c0ec6f97d1d6da"
+          }
+        },
+        {
+          "client_id": "448475276336-ebiimoov5nudndtmt65f9f2lnvef73pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyV6xC1EU53LJWMw0zAyoUJ0EybOz7eyY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448475276336-ebiimoov5nudndtmt65f9f2lnvef73pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
